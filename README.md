@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In order to run the application just download the repository and on terminal go the downloaded folder and run " npm start" and it will start the application
 
+Demo Image of the webpage application. Counter above will count the number of turns taken to complete the whole game.
+
 ![Game Demo](https://github.com/Deepankkhurana/ReactGuessGame/blob/master/public/demo.png)
 
 
